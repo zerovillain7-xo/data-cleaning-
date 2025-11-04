@@ -1,0 +1,511 @@
+Transaction_ID,Date,Customer_Name,Product_Category,Product_Name,Quantity,Unit_Price,Total_Sales,Payment_Method,City,Rating
+T001,2025-03-26,Fajar Nugraha,Smartphone,iPhone 13,1,1200,1200,Credit,Semarang,2.0
+T002,2025-02-11,Maya Lestari,Laptop,MacBook Air M2,4,600,2400,Credit,Surabaya,4.0
+T003,2025-06-25,Sari Ningsih,Laptop,ASUS Vivobook 15,1,600,600,Debit,Semarang,
+T004,2025-06-29,Rudi Hartono,Smartphone,iPhone 13,1,550,550,Credit,Yogyakarta,1.0
+T005,2025-05-15,Rina Putri,Laptop,Lenovo IdeaPad 3,3,75,225,Cash,Yogyakarta,
+T006,2025-06-05,Budi Santoso,Smartphone,Xiaomi Redmi Note 12,3,25,75,E-Wallet,Medan,4.0
+T007,2025-04-03,Sari Ningsih,Aksesoris,Charger Anker,5,75,375,Debit,Makassar,5.0
+T008,2025-05-28,Sari Ningsih,Aksesoris,Keyboard Rexus,2,1200,2400,Debit,Semarang,5.0
+T009,2025-04-07,Rina Putri,Aksesoris,Keyboard Rexus,4,15,60,Cash,Makassar,1.0
+T010,2025-02-05,,Laptop,ASUS Vivobook 15,1,600,600,Credit,Jakarta,5.0
+T011,2025-04-29,Andi Saputra,Aksesoris,Earphone JBL,3,850,2550,Cash,Makassar,1.0
+T012,2025-03-06,Citra Dewi,Aksesoris,Charger Anker,1,230,230,Credit,Surabaya,4.0
+T013,2025-05-21,Rina Putri,Laptop,MacBook Air M2,4,300,1200,Debit,Yogyakarta,1.0
+T014,2025-09-10,Fajar Nugraha,Laptop,Lenovo IdeaPad 3,4,230,920,Credit,Bandung,5.0
+T015,2025-09-11,Andi Saputra,Aksesoris,Keyboard Rexus,4,75,300,Credit,Surabaya,
+T016,2025-08-18,Fajar Nugraha,Smartphone,Samsung A14,3,600,1800,Credit,Bandung,5.0
+T017,2025-03-26,Sari Ningsih,Aksesoris,Charger Anker,4,230,920,E-Wallet,Surabaya,3.0
+T018,2025-02-14,Budi Santoso,Laptop,HP Pavilion,2,550,1100,Debit,Yogyakarta,
+T019,2025-04-18,Rina Putri,Laptop,Lenovo IdeaPad 3,5,1200,6000,Cash,Semarang,1.0
+T020,2025-03-09,Sari Ningsih,Aksesoris,Mouse Logitech,4,550,2200,E-Wallet,Surabaya,3.0
+T021,2025-04-27,,Laptop,Lenovo IdeaPad 3,2,15,30,Cash,Semarang,3.0
+T022,2025-07-28,Eko Prasetyo,Laptop,ASUS Vivobook 15,2,40,80,E-Wallet,Jakarta,2.0
+T023,2025-07-31,Fajar Nugraha,Smartphone,Samsung A14,2,550,1100,Credit,Makassar,
+T024,2025-02-10,Andi Saputra,Smartphone,Xiaomi Redmi Note 12,1,1200,1200,Credit,Medan,5.0
+T025,2025-02-04,Rudi Hartono,Laptop,ASUS Vivobook 15,1,25,25,E-Wallet,Jakarta,2.0
+T026,2025-07-11,Sari Ningsih,Aksesoris,Earphone JBL,4,40,160,Credit,Bandung,3.0
+T027,2025-04-06,Fajar Nugraha,Aksesoris,Mouse Logitech,4,15,60,E-Wallet,Makassar,3.0
+T028,2025-07-05,Maya Lestari,Aksesoris,Mouse Logitech,3,300,900,Credit,Surabaya,4.0
+T029,2025-04-26,Lina Oktaviani,Aksesoris,Charger Anker,5,1200,6000,Credit,Bandung,
+T030,2025-07-13,Fajar Nugraha,Smartphone,Xiaomi Redmi Note 12,4,15,60,Credit,Jakarta,
+T031,2025-07-21,Sari Ningsih,Smartphone,iPhone 13,1,25,25,E-Wallet,Medan,1.0
+T032,2025-10-01,Maya Lestari,Smartphone,iPhone 13,5,1200,6000,E-Wallet,Surabaya,4.0
+T033,2025-03-15,,Smartphone,iPhone 13,4,1200,4800,Credit,Surabaya,2.0
+T034,2025-02-09,Rudi Hartono,Aksesoris,Mouse Logitech,5,15,75,Credit,Makassar,5.0
+T035,2025-08-18,Maya Lestari,Smartphone,Oppo A58,4,850,3400,Cash,Medan,2.0
+T036,2025-01-15,Citra Dewi,Aksesoris,Charger Anker,1,25,25,Cash,Yogyakarta,2.0
+T037,2025-01-09,Fajar Nugraha,Laptop,Lenovo IdeaPad 3,2,300,600,Cash,Bandung,
+T038,2025-03-12,Fajar Nugraha,Aksesoris,Earphone JBL,2,850,1700,Debit,Semarang,2.0
+T039,2025-05-01,Lina Oktaviani,Aksesoris,Mouse Logitech,2,550,1100,Debit,Surabaya,3.0
+T040,2025-10-01,Citra Dewi,Aksesoris,Keyboard Rexus,3,850,2550,Debit,Medan,1.0
+T041,2025-05-24,Maya Lestari,Smartphone,iPhone 13,3,230,690,E-Wallet,Semarang,2.0
+T042,2025-07-07,Sari Ningsih,Smartphone,Samsung A14,3,75,225,Debit,Semarang,1.0
+T043,2025-03-05,Sari Ningsih,Smartphone,iPhone 13,5,600,3000,E-Wallet,Makassar,5.0
+T044,2025-09-22,,Aksesoris,Keyboard Rexus,4,550,2200,E-Wallet,Jakarta,5.0
+T045,2025-08-31,Lina Oktaviani,Laptop,Lenovo IdeaPad 3,3,850,2550,Debit,Surabaya,2.0
+T046,2025-04-02,Rina Putri,Laptop,Lenovo IdeaPad 3,4,300,1200,Debit,Bandung,
+T047,2025-07-12,Maya Lestari,Laptop,Lenovo IdeaPad 3,4,230,920,Debit,Medan,4.0
+T048,2025-05-31,Rina Putri,Aksesoris,Charger Anker,5,230,1150,Cash,Yogyakarta,1.0
+T049,2025-06-26,Sari Ningsih,Smartphone,Xiaomi Redmi Note 12,3,230,690,Debit,Makassar,4.0
+T050,2025-07-05,Andi Saputra,Laptop,MacBook Air M2,1,550,550,Credit,Bandung,
+T051,2025-04-10,Fajar Nugraha,Aksesoris,Keyboard Rexus,4,1200,4800,Cash,Makassar,1.0
+T052,2025-04-30,Maya Lestari,Laptop,MacBook Air M2,2,25,50,Credit,Makassar,2.0
+T053,2025-02-09,Lina Oktaviani,Aksesoris,Keyboard Rexus,5,75,375,Credit,Bandung,5.0
+T054,2025-05-12,Sari Ningsih,Laptop,ASUS Vivobook 15,2,40,80,E-Wallet,Makassar,2.0
+T055,2025-02-27,Sari Ningsih,Laptop,MacBook Air M2,2,230,460,E-Wallet,Semarang,2.0
+T056,2025-04-06,Maya Lestari,Aksesoris,Charger Anker,1,15,15,Cash,Jakarta,5.0
+T057,2025-05-28,Lina Oktaviani,Aksesoris,Earphone JBL,2,850,1700,Credit,Surabaya,
+T058,2025-07-19,Fajar Nugraha,Smartphone,Oppo A58,3,15,45,Credit,Medan,2.0
+T059,2025-02-07,Sari Ningsih,Laptop,ASUS Vivobook 15,5,15,75,Credit,Jakarta,3.0
+T060,2025-03-15,Rudi Hartono,Aksesoris,Keyboard Rexus,2,300,600,Cash,Semarang,2.0
+T061,2025-09-19,Lina Oktaviani,Smartphone,Samsung A14,1,40,40,Cash,Makassar,2.0
+T062,2025-04-16,Rudi Hartono,Smartphone,Samsung A14,4,230,920,E-Wallet,Medan,
+T063,2025-04-21,Rudi Hartono,Laptop,Lenovo IdeaPad 3,1,850,850,E-Wallet,Medan,5.0
+T064,2025-03-17,Budi Santoso,Laptop,HP Pavilion,5,300,1500,Credit,Surabaya,3.0
+T065,2025-02-28,Citra Dewi,Smartphone,Xiaomi Redmi Note 12,2,550,1100,E-Wallet,Yogyakarta,
+T066,2025-01-26,Maya Lestari,Smartphone,Samsung A14,5,1200,6000,Cash,Jakarta,3.0
+T067,2025-05-27,Citra Dewi,Smartphone,Oppo A58,5,1200,6000,Credit,Medan,3.0
+T068,2025-08-06,Maya Lestari,Laptop,HP Pavilion,2,550,1100,E-Wallet,Makassar,3.0
+T069,2025-06-12,Andi Saputra,Smartphone,Oppo A58,4,1200,4800,Debit,Bandung,5.0
+T070,2025-03-26,Maya Lestari,Laptop,HP Pavilion,4,300,1200,E-Wallet,Semarang,3.0
+T071,2025-07-13,Lina Oktaviani,Laptop,ASUS Vivobook 15,1,75,75,Cash,Makassar,5.0
+T072,2025-05-11,Rudi Hartono,Smartphone,Samsung A14,1,300,300,Debit,Medan,
+T073,2025-01-05,Budi Santoso,Laptop,MacBook Air M2,4,850,3400,Cash,Jakarta,1.0
+T074,2025-03-08,Fajar Nugraha,Aksesoris,Earphone JBL,2,15,30,Debit,Surabaya,4.0
+T075,2025-02-11,Eko Prasetyo,Laptop,MacBook Air M2,2,850,1700,Debit,Surabaya,3.0
+T076,2025-05-22,Budi Santoso,Laptop,MacBook Air M2,3,75,225,Cash,Surabaya,1.0
+T077,2025-01-10,Maya Lestari,Aksesoris,Charger Anker,3,75,225,Credit,Makassar,4.0
+T078,2025-09-03,Sari Ningsih,Laptop,MacBook Air M2,4,25,100,Cash,Makassar,
+T079,2025-03-24,Budi Santoso,Smartphone,Xiaomi Redmi Note 12,5,850,4250,E-Wallet,Surabaya,3.0
+T080,2025-04-22,Budi Santoso,Smartphone,Xiaomi Redmi Note 12,2,230,460,E-Wallet,Yogyakarta,5.0
+T081,2025-05-25,Fajar Nugraha,Aksesoris,Earphone JBL,1,300,300,E-Wallet,Semarang,1.0
+T082,2025-01-02,Budi Santoso,Smartphone,iPhone 13,5,300,1500,Cash,Bandung,4.0
+T083,2025-02-26,Eko Prasetyo,Laptop,Lenovo IdeaPad 3,2,230,460,Credit,Yogyakarta,3.0
+T084,2025-04-10,,Smartphone,iPhone 13,5,850,4250,Credit,Semarang,2.0
+T085,2025-08-19,Rina Putri,Aksesoris,Earphone JBL,1,550,550,Debit,Medan,5.0
+T086,2025-04-20,Budi Santoso,Laptop,MacBook Air M2,5,230,1150,Credit,Bandung,3.0
+T087,2025-08-16,Rudi Hartono,Aksesoris,Keyboard Rexus,5,850,4250,E-Wallet,Jakarta,1.0
+T088,2025-03-11,Rudi Hartono,Smartphone,Samsung A14,4,15,60,Debit,Surabaya,3.0
+T089,2025-04-19,Fajar Nugraha,Laptop,ASUS Vivobook 15,1,40,40,Debit,Jakarta,5.0
+T090,2025-04-10,Rudi Hartono,Aksesoris,Charger Anker,2,25,50,Cash,Semarang,5.0
+T091,2025-01-10,Citra Dewi,Laptop,ASUS Vivobook 15,2,600,1200,Credit,Semarang,2.0
+T092,2025-09-14,Rudi Hartono,Aksesoris,Mouse Logitech,5,850,4250,Credit,Semarang,
+T093,2025-09-15,Rudi Hartono,Laptop,ASUS Vivobook 15,1,850,850,E-Wallet,Bandung,2.0
+T094,2025-04-07,Sari Ningsih,Aksesoris,Earphone JBL,1,25,25,E-Wallet,Surabaya,
+T095,2025-02-24,Andi Saputra,Aksesoris,Keyboard Rexus,3,15,45,Cash,Medan,
+T096,2025-01-26,Rudi Hartono,Smartphone,Oppo A58,5,300,1500,Cash,Surabaya,4.0
+T097,2025-01-02,Citra Dewi,Aksesoris,Keyboard Rexus,2,40,80,Cash,Surabaya,3.0
+T098,2025-07-24,Sari Ningsih,Smartphone,Samsung A14,1,850,850,Credit,Yogyakarta,5.0
+T099,2025-03-28,Citra Dewi,Laptop,HP Pavilion,2,25,50,Credit,Yogyakarta,3.0
+T100,2025-03-13,Fajar Nugraha,Smartphone,Oppo A58,5,300,1500,Credit,Makassar,2.0
+T101,2025-02-16,Sari Ningsih,Smartphone,Samsung A14,2,550,1100,Debit,Semarang,3.0
+T102,2025-08-07,Maya Lestari,Laptop,Lenovo IdeaPad 3,5,1200,6000,Debit,Yogyakarta,4.0
+T103,2025-09-07,Rudi Hartono,Aksesoris,Earphone JBL,4,25,100,Credit,Makassar,5.0
+T104,2025-09-03,Lina Oktaviani,Laptop,MacBook Air M2,4,1200,4800,Debit,Yogyakarta,1.0
+T105,2025-05-02,Rudi Hartono,Laptop,ASUS Vivobook 15,2,15,30,Debit,Yogyakarta,5.0
+T106,2025-05-19,Rina Putri,Aksesoris,Keyboard Rexus,2,550,1100,E-Wallet,Makassar,3.0
+T107,2025-02-07,Eko Prasetyo,Smartphone,Xiaomi Redmi Note 12,4,25,100,E-Wallet,Bandung,2.0
+T108,2025-01-02,Rina Putri,Aksesoris,Earphone JBL,1,300,300,Credit,Jakarta,2.0
+T109,2025-05-11,Eko Prasetyo,Smartphone,Samsung A14,2,230,460,Credit,Surabaya,5.0
+T110,2025-03-01,Rudi Hartono,Laptop,Lenovo IdeaPad 3,1,550,550,E-Wallet,Medan,4.0
+T111,2025-04-21,Lina Oktaviani,Smartphone,Samsung A14,1,850,850,Credit,Yogyakarta,2.0
+T112,2025-05-20,,Aksesoris,Keyboard Rexus,5,40,200,Cash,Surabaya,2.0
+T113,2025-01-04,Eko Prasetyo,Smartphone,iPhone 13,4,15,60,Credit,Surabaya,1.0
+T114,2025-05-29,Fajar Nugraha,Aksesoris,Mouse Logitech,4,300,1200,Credit,Surabaya,2.0
+T115,2025-08-21,Andi Saputra,Smartphone,Oppo A58,4,230,920,E-Wallet,Medan,1.0
+T116,2025-07-15,Eko Prasetyo,Aksesoris,Charger Anker,5,15,75,Cash,Medan,5.0
+T117,2025-01-10,Fajar Nugraha,Smartphone,Oppo A58,2,230,460,Credit,Makassar,2.0
+T118,2025-02-20,Lina Oktaviani,Aksesoris,Charger Anker,3,230,690,Credit,Jakarta,5.0
+T119,2025-03-13,,Aksesoris,Earphone JBL,2,850,1700,E-Wallet,Semarang,
+T120,2025-08-10,Sari Ningsih,Smartphone,Oppo A58,2,15,30,Debit,Yogyakarta,
+T121,2025-07-28,Citra Dewi,Aksesoris,Keyboard Rexus,5,40,200,E-Wallet,Yogyakarta,2.0
+T122,2025-06-08,Citra Dewi,Aksesoris,Charger Anker,3,75,225,Debit,Semarang,1.0
+T123,2025-08-23,,Laptop,MacBook Air M2,2,550,1100,E-Wallet,Medan,5.0
+T124,2025-06-23,Maya Lestari,Laptop,Lenovo IdeaPad 3,5,850,4250,Credit,Medan,5.0
+T125,2025-07-15,Fajar Nugraha,Aksesoris,Earphone JBL,1,230,230,E-Wallet,Semarang,
+T126,2025-05-11,Maya Lestari,Smartphone,Oppo A58,1,40,40,Credit,Surabaya,2.0
+T127,2025-03-07,Fajar Nugraha,Aksesoris,Mouse Logitech,1,25,25,Credit,Yogyakarta,1.0
+T128,2025-09-26,Budi Santoso,Smartphone,Xiaomi Redmi Note 12,4,15,60,Credit,Semarang,2.0
+T129,2025-02-21,Fajar Nugraha,Smartphone,iPhone 13,2,1200,2400,Credit,Makassar,3.0
+T130,2025-05-25,Eko Prasetyo,Laptop,HP Pavilion,3,600,1800,Cash,Semarang,5.0
+T131,2025-08-05,Citra Dewi,Laptop,HP Pavilion,4,15,60,E-Wallet,Surabaya,2.0
+T132,2025-07-31,Eko Prasetyo,Smartphone,Xiaomi Redmi Note 12,3,25,75,Cash,Surabaya,5.0
+T133,2025-07-12,,Aksesoris,Keyboard Rexus,4,15,60,Cash,Semarang,
+T134,2025-07-29,Fajar Nugraha,Laptop,HP Pavilion,1,15,15,Credit,Surabaya,2.0
+T135,2025-02-09,Eko Prasetyo,Aksesoris,Charger Anker,4,1200,4800,E-Wallet,Surabaya,1.0
+T136,2025-01-06,Andi Saputra,Aksesoris,Charger Anker,3,15,45,Cash,Jakarta,
+T137,2025-05-22,Citra Dewi,Aksesoris,Keyboard Rexus,3,850,2550,Credit,Semarang,5.0
+T138,2025-05-20,Rudi Hartono,Smartphone,iPhone 13,3,75,225,Cash,Semarang,1.0
+T139,2025-05-30,Citra Dewi,Aksesoris,Mouse Logitech,2,300,600,E-Wallet,Yogyakarta,3.0
+T140,2025-07-14,Eko Prasetyo,Aksesoris,Keyboard Rexus,3,1200,3600,Debit,Yogyakarta,2.0
+T141,2025-07-22,Sari Ningsih,Laptop,MacBook Air M2,4,75,300,Cash,Semarang,3.0
+T142,2025-03-05,Citra Dewi,Aksesoris,Charger Anker,1,25,25,Debit,Makassar,4.0
+T143,2025-03-25,Rudi Hartono,Aksesoris,Mouse Logitech,4,75,300,Debit,Medan,
+T144,2025-09-27,Sari Ningsih,Laptop,Lenovo IdeaPad 3,5,1200,6000,Debit,Makassar,1.0
+T145,2025-03-23,Maya Lestari,Aksesoris,Mouse Logitech,3,550,1650,Credit,Surabaya,
+T146,2025-04-01,Lina Oktaviani,Aksesoris,Mouse Logitech,2,850,1700,Debit,Medan,2.0
+T147,2025-05-29,Budi Santoso,Aksesoris,Earphone JBL,5,230,1150,E-Wallet,Yogyakarta,
+T148,2025-06-07,Eko Prasetyo,Laptop,HP Pavilion,2,300,600,Credit,Jakarta,2.0
+T149,2025-03-28,Lina Oktaviani,Smartphone,iPhone 13,2,600,1200,Debit,Jakarta,4.0
+T150,2025-08-29,Rudi Hartono,Smartphone,iPhone 13,1,40,40,Debit,Makassar,4.0
+T151,2025-09-18,Sari Ningsih,Smartphone,Xiaomi Redmi Note 12,5,25,125,Debit,Semarang,3.0
+T152,2025-08-29,Andi Saputra,Smartphone,Samsung A14,5,600,3000,Debit,Yogyakarta,4.0
+T153,2025-09-29,Eko Prasetyo,Laptop,HP Pavilion,2,75,150,Cash,Semarang,1.0
+T154,2025-06-04,Sari Ningsih,Smartphone,iPhone 13,5,300,1500,Credit,Semarang,2.0
+T155,2025-03-01,Lina Oktaviani,Laptop,Lenovo IdeaPad 3,5,25,125,E-Wallet,Jakarta,
+T156,2025-02-17,Rudi Hartono,Aksesoris,Charger Anker,3,40,120,E-Wallet,Semarang,1.0
+T157,2025-07-02,Fajar Nugraha,Laptop,Lenovo IdeaPad 3,5,75,375,Credit,Makassar,4.0
+T158,2025-02-26,Maya Lestari,Laptop,MacBook Air M2,5,850,4250,E-Wallet,Medan,4.0
+T159,2025-08-18,Budi Santoso,Laptop,Lenovo IdeaPad 3,1,25,25,Credit,Jakarta,4.0
+T160,2025-04-12,Fajar Nugraha,Aksesoris,Charger Anker,3,1200,3600,Credit,Makassar,
+T161,2025-05-02,Budi Santoso,Laptop,HP Pavilion,3,75,225,Cash,Medan,2.0
+T162,2025-02-16,Sari Ningsih,Smartphone,Oppo A58,5,600,3000,E-Wallet,Semarang,4.0
+T163,2025-09-03,Andi Saputra,Smartphone,Samsung A14,3,850,2550,E-Wallet,Semarang,
+T164,2025-09-15,Andi Saputra,Laptop,HP Pavilion,4,40,160,E-Wallet,Surabaya,5.0
+T165,2025-02-03,Maya Lestari,Smartphone,Samsung A14,1,300,300,Cash,Semarang,
+T166,2025-02-03,,Smartphone,Xiaomi Redmi Note 12,3,40,120,E-Wallet,Semarang,2.0
+T167,2025-09-23,Andi Saputra,Laptop,MacBook Air M2,2,25,50,Credit,Semarang,5.0
+T168,2025-08-25,Rudi Hartono,Aksesoris,Mouse Logitech,3,25,75,E-Wallet,Bandung,2.0
+T169,2025-09-09,Budi Santoso,Laptop,ASUS Vivobook 15,4,1200,4800,Cash,Semarang,
+T170,2025-05-17,,Aksesoris,Mouse Logitech,5,1200,6000,Credit,Yogyakarta,5.0
+T171,2025-01-23,Maya Lestari,Laptop,Lenovo IdeaPad 3,2,25,50,Debit,Bandung,
+T172,2025-08-29,Maya Lestari,Smartphone,Samsung A14,3,600,1800,Credit,Medan,
+T173,2025-07-27,,Laptop,ASUS Vivobook 15,1,15,15,Credit,Makassar,
+T174,2025-01-22,Lina Oktaviani,Smartphone,iPhone 13,5,300,1500,E-Wallet,Semarang,3.0
+T175,2025-03-31,Budi Santoso,Aksesoris,Charger Anker,5,15,75,Cash,Jakarta,3.0
+T176,2025-05-29,Andi Saputra,Smartphone,Samsung A14,5,1200,6000,E-Wallet,Bandung,1.0
+T177,2025-02-03,Citra Dewi,Laptop,ASUS Vivobook 15,1,850,850,Debit,Bandung,2.0
+T178,2025-04-20,Sari Ningsih,Laptop,ASUS Vivobook 15,2,40,80,E-Wallet,Semarang,3.0
+T179,2025-02-09,Budi Santoso,Laptop,Lenovo IdeaPad 3,3,850,2550,Debit,Medan,4.0
+T180,2025-03-04,Sari Ningsih,Laptop,Lenovo IdeaPad 3,4,600,2400,E-Wallet,Bandung,3.0
+T181,2025-09-03,,Smartphone,Oppo A58,3,15,45,Cash,Jakarta,
+T182,2025-01-27,Eko Prasetyo,Smartphone,Samsung A14,3,230,690,Credit,Medan,5.0
+T183,2025-09-27,Fajar Nugraha,Smartphone,iPhone 13,5,300,1500,Credit,Yogyakarta,4.0
+T184,2025-01-15,Andi Saputra,Smartphone,iPhone 13,3,600,1800,Cash,Jakarta,3.0
+T185,2025-09-14,Maya Lestari,Laptop,ASUS Vivobook 15,3,75,225,Debit,Medan,2.0
+T186,2025-09-26,Citra Dewi,Aksesoris,Earphone JBL,3,25,75,E-Wallet,Medan,2.0
+T187,2025-08-19,Sari Ningsih,Laptop,MacBook Air M2,2,75,150,Debit,Medan,2.0
+T188,2025-04-25,Fajar Nugraha,Aksesoris,Keyboard Rexus,4,25,100,Credit,Medan,4.0
+T189,2025-02-18,Rina Putri,Smartphone,Oppo A58,4,40,160,Cash,Bandung,4.0
+T190,2025-09-19,Sari Ningsih,Aksesoris,Keyboard Rexus,2,1200,2400,E-Wallet,Bandung,1.0
+T191,2025-02-28,Andi Saputra,Smartphone,iPhone 13,1,40,40,Credit,Makassar,3.0
+T192,2025-09-17,Budi Santoso,Smartphone,iPhone 13,4,550,2200,Debit,Makassar,5.0
+T193,2025-07-20,Maya Lestari,Aksesoris,Earphone JBL,5,40,200,Credit,Bandung,2.0
+T194,2025-04-04,Eko Prasetyo,Aksesoris,Keyboard Rexus,5,300,1500,Debit,Yogyakarta,2.0
+T195,2025-02-15,Citra Dewi,Aksesoris,Earphone JBL,3,1200,3600,E-Wallet,Jakarta,5.0
+T196,2025-05-28,Rudi Hartono,Laptop,HP Pavilion,4,15,60,Debit,Bandung,2.0
+T197,2025-04-30,Lina Oktaviani,Laptop,ASUS Vivobook 15,5,75,375,Debit,Medan,
+T198,2025-01-05,Sari Ningsih,Laptop,ASUS Vivobook 15,5,300,1500,Cash,Surabaya,2.0
+T199,2025-05-13,Rudi Hartono,Aksesoris,Earphone JBL,1,600,600,Debit,Medan,1.0
+T200,2025-02-17,Budi Santoso,Smartphone,Xiaomi Redmi Note 12,4,230,920,Credit,Makassar,2.0
+T201,2025-07-25,Budi Santoso,Laptop,MacBook Air M2,1,550,550,Credit,Medan,3.0
+T202,2025-01-24,Sari Ningsih,Smartphone,Xiaomi Redmi Note 12,4,550,2200,Debit,Semarang,
+T203,2025-06-02,Citra Dewi,Aksesoris,Mouse Logitech,4,40,160,Credit,Semarang,1.0
+T204,2025-05-02,Rudi Hartono,Laptop,MacBook Air M2,4,230,920,Debit,Bandung,2.0
+T205,2025-06-16,,Aksesoris,Keyboard Rexus,4,75,300,Cash,Surabaya,5.0
+T206,2025-01-11,Rudi Hartono,Smartphone,Xiaomi Redmi Note 12,4,15,60,E-Wallet,Makassar,
+T207,2025-04-05,Rudi Hartono,Laptop,Lenovo IdeaPad 3,3,300,900,Cash,Surabaya,
+T208,2025-02-23,Eko Prasetyo,Laptop,MacBook Air M2,4,600,2400,Cash,Medan,
+T209,2025-03-18,Maya Lestari,Laptop,MacBook Air M2,1,230,230,Debit,Yogyakarta,
+T210,2025-04-14,Andi Saputra,Laptop,ASUS Vivobook 15,2,600,1200,Debit,Jakarta,1.0
+T211,2025-02-26,Budi Santoso,Laptop,Lenovo IdeaPad 3,1,600,600,E-Wallet,Bandung,1.0
+T212,2025-09-24,Sari Ningsih,Laptop,Lenovo IdeaPad 3,5,550,2750,E-Wallet,Yogyakarta,3.0
+T213,2025-04-26,Maya Lestari,Laptop,HP Pavilion,3,1200,3600,E-Wallet,Surabaya,
+T214,2025-05-24,Rina Putri,Aksesoris,Charger Anker,4,40,160,E-Wallet,Bandung,3.0
+T215,2025-09-07,Maya Lestari,Laptop,HP Pavilion,5,25,125,E-Wallet,Bandung,1.0
+T216,2025-09-28,Fajar Nugraha,Smartphone,Samsung A14,1,850,850,Credit,Makassar,1.0
+T217,2025-03-28,Andi Saputra,Laptop,ASUS Vivobook 15,1,230,230,Cash,Surabaya,
+T218,2025-02-04,,Smartphone,iPhone 13,1,550,550,Cash,Yogyakarta,
+T219,2025-03-04,Eko Prasetyo,Smartphone,Samsung A14,3,75,225,E-Wallet,Bandung,2.0
+T220,2025-08-29,Sari Ningsih,Smartphone,iPhone 13,4,1200,4800,Debit,Jakarta,4.0
+T221,2025-08-18,Eko Prasetyo,Laptop,ASUS Vivobook 15,4,230,920,E-Wallet,Semarang,3.0
+T222,2025-05-13,Fajar Nugraha,Laptop,Lenovo IdeaPad 3,1,1200,1200,E-Wallet,Yogyakarta,3.0
+T223,2025-01-07,Budi Santoso,Laptop,Lenovo IdeaPad 3,5,550,2750,Debit,Jakarta,
+T224,2025-04-05,Lina Oktaviani,Smartphone,Samsung A14,1,300,300,Cash,Medan,5.0
+T225,2025-03-07,Sari Ningsih,Laptop,MacBook Air M2,3,300,900,Credit,Jakarta,1.0
+T226,2025-01-24,Budi Santoso,Aksesoris,Keyboard Rexus,2,1200,2400,Debit,Jakarta,
+T227,2025-01-04,Sari Ningsih,Laptop,Lenovo IdeaPad 3,1,550,550,Credit,Yogyakarta,
+T228,2025-06-18,Rudi Hartono,Aksesoris,Keyboard Rexus,3,1200,3600,Debit,Surabaya,
+T229,2025-02-10,Maya Lestari,Aksesoris,Keyboard Rexus,2,230,460,Credit,Surabaya,
+T230,2025-01-27,Budi Santoso,Laptop,Lenovo IdeaPad 3,5,300,1500,E-Wallet,Semarang,1.0
+T231,2025-05-26,Lina Oktaviani,Laptop,HP Pavilion,3,15,45,E-Wallet,Yogyakarta,1.0
+T232,2025-05-16,Sari Ningsih,Aksesoris,Mouse Logitech,2,1200,2400,Credit,Surabaya,1.0
+T233,2025-04-25,Sari Ningsih,Aksesoris,Charger Anker,4,25,100,Cash,Yogyakarta,1.0
+T234,2025-08-27,Maya Lestari,Smartphone,Samsung A14,1,40,40,Cash,Semarang,3.0
+T235,2025-01-27,Citra Dewi,Laptop,HP Pavilion,5,40,200,E-Wallet,Jakarta,2.0
+T236,2025-09-09,Lina Oktaviani,Laptop,HP Pavilion,5,1200,6000,Credit,Bandung,3.0
+T237,2025-05-04,Citra Dewi,Aksesoris,Earphone JBL,1,75,75,E-Wallet,Semarang,2.0
+T238,2025-02-15,Maya Lestari,Aksesoris,Earphone JBL,3,40,120,Debit,Semarang,3.0
+T239,2025-02-25,Sari Ningsih,Smartphone,Samsung A14,5,75,375,E-Wallet,Medan,2.0
+T240,2025-03-30,Rina Putri,Smartphone,Samsung A14,2,850,1700,Cash,Yogyakarta,3.0
+T241,2025-08-02,Budi Santoso,Laptop,HP Pavilion,4,75,300,Credit,Bandung,
+T242,2025-09-17,Andi Saputra,Laptop,Lenovo IdeaPad 3,1,230,230,Debit,Makassar,1.0
+T243,2025-04-18,Citra Dewi,Smartphone,Xiaomi Redmi Note 12,4,40,160,Debit,Yogyakarta,4.0
+T244,2025-04-01,Eko Prasetyo,Smartphone,Xiaomi Redmi Note 12,1,300,300,Credit,Surabaya,
+T245,2025-04-14,Andi Saputra,Laptop,ASUS Vivobook 15,2,300,600,Cash,Yogyakarta,
+T246,2025-02-08,Sari Ningsih,Laptop,HP Pavilion,5,25,125,Cash,Medan,3.0
+T247,2025-09-14,Citra Dewi,Laptop,ASUS Vivobook 15,1,25,25,E-Wallet,Semarang,1.0
+T248,2025-02-21,Citra Dewi,Aksesoris,Keyboard Rexus,5,850,4250,Credit,Makassar,4.0
+T249,2025-06-16,Eko Prasetyo,Laptop,MacBook Air M2,5,550,2750,Credit,Jakarta,1.0
+T250,2025-06-15,Rina Putri,Aksesoris,Earphone JBL,4,550,2200,Credit,Semarang,2.0
+T251,2025-06-11,Fajar Nugraha,Smartphone,Xiaomi Redmi Note 12,3,1200,3600,Debit,Jakarta,2.0
+T252,2025-06-25,Citra Dewi,Laptop,HP Pavilion,4,550,2200,Debit,Medan,1.0
+T253,2025-04-05,Eko Prasetyo,Smartphone,Xiaomi Redmi Note 12,2,230,460,Credit,Surabaya,1.0
+T254,2025-03-07,Lina Oktaviani,Smartphone,Samsung A14,4,600,2400,Cash,Medan,3.0
+T255,2025-07-08,Lina Oktaviani,Smartphone,Oppo A58,4,1200,4800,Credit,Yogyakarta,5.0
+T256,2025-04-23,Fajar Nugraha,Aksesoris,Charger Anker,5,550,2750,Cash,Jakarta,1.0
+T257,2025-01-26,Fajar Nugraha,Aksesoris,Mouse Logitech,3,230,690,Debit,Makassar,2.0
+T258,2025-05-05,Citra Dewi,Smartphone,Xiaomi Redmi Note 12,3,25,75,Debit,Semarang,5.0
+T259,2025-03-25,Eko Prasetyo,Smartphone,Xiaomi Redmi Note 12,5,15,75,E-Wallet,Yogyakarta,3.0
+T260,2025-08-03,Sari Ningsih,Smartphone,iPhone 13,2,1200,2400,Debit,Semarang,2.0
+T261,2025-08-08,Lina Oktaviani,Aksesoris,Keyboard Rexus,2,550,1100,Cash,Medan,
+T262,2025-03-10,Sari Ningsih,Laptop,Lenovo IdeaPad 3,1,25,25,Cash,Semarang,2.0
+T263,2025-06-04,Rina Putri,Smartphone,Samsung A14,5,75,375,E-Wallet,Jakarta,1.0
+T264,2025-09-20,Lina Oktaviani,Smartphone,iPhone 13,1,550,550,Credit,Surabaya,1.0
+T265,2025-08-16,Rina Putri,Aksesoris,Charger Anker,2,40,80,Credit,Makassar,
+T266,2025-02-25,Rudi Hartono,Laptop,MacBook Air M2,2,75,150,Cash,Semarang,2.0
+T267,2025-06-03,Fajar Nugraha,Laptop,Lenovo IdeaPad 3,2,15,30,Cash,Medan,5.0
+T268,2025-01-06,Budi Santoso,Smartphone,Xiaomi Redmi Note 12,4,75,300,E-Wallet,Jakarta,3.0
+T269,2025-07-12,Fajar Nugraha,Smartphone,Xiaomi Redmi Note 12,3,300,900,Credit,Semarang,5.0
+T270,2025-02-24,Maya Lestari,Smartphone,Oppo A58,2,550,1100,E-Wallet,Bandung,3.0
+T271,2025-07-07,Rina Putri,Smartphone,Oppo A58,3,850,2550,Debit,Semarang,
+T272,2025-01-13,Rina Putri,Laptop,MacBook Air M2,3,300,900,Credit,Surabaya,5.0
+T273,2025-03-01,Fajar Nugraha,Aksesoris,Charger Anker,1,600,600,Cash,Makassar,2.0
+T274,2025-01-09,Citra Dewi,Laptop,MacBook Air M2,3,75,225,Credit,Semarang,
+T275,2025-04-01,Rudi Hartono,Smartphone,Xiaomi Redmi Note 12,2,1200,2400,Credit,Semarang,2.0
+T276,2025-04-01,Rudi Hartono,Aksesoris,Earphone JBL,2,300,600,Cash,Makassar,1.0
+T277,2025-05-20,Sari Ningsih,Smartphone,Xiaomi Redmi Note 12,1,600,600,Credit,Makassar,1.0
+T278,2025-09-08,Citra Dewi,Aksesoris,Keyboard Rexus,4,600,2400,Debit,Yogyakarta,4.0
+T279,2025-03-22,Rina Putri,Laptop,ASUS Vivobook 15,1,25,25,Debit,Surabaya,2.0
+T280,2025-02-20,Rina Putri,Smartphone,Xiaomi Redmi Note 12,4,850,3400,Debit,Surabaya,
+T281,2025-02-04,Rina Putri,Smartphone,Oppo A58,5,550,2750,Cash,Jakarta,5.0
+T282,2025-09-25,Rina Putri,Laptop,ASUS Vivobook 15,1,40,40,Credit,Surabaya,2.0
+T283,2025-05-27,Budi Santoso,Smartphone,Samsung A14,5,75,375,E-Wallet,Surabaya,1.0
+T284,2025-08-11,Citra Dewi,Laptop,ASUS Vivobook 15,4,25,100,Credit,Makassar,
+T285,2025-01-02,,Laptop,HP Pavilion,2,600,1200,Cash,Yogyakarta,5.0
+T286,2025-09-12,Eko Prasetyo,Aksesoris,Charger Anker,3,600,1800,Credit,Bandung,5.0
+T287,2025-06-18,Budi Santoso,Aksesoris,Keyboard Rexus,1,15,15,Cash,Jakarta,5.0
+T288,2025-05-22,Budi Santoso,Aksesoris,Mouse Logitech,1,40,40,Debit,Makassar,2.0
+T289,2025-03-08,Lina Oktaviani,Smartphone,Samsung A14,1,25,25,E-Wallet,Yogyakarta,1.0
+T290,2025-05-24,Rina Putri,Smartphone,iPhone 13,2,300,600,Debit,Jakarta,5.0
+T291,2025-04-04,Budi Santoso,Aksesoris,Mouse Logitech,4,75,300,E-Wallet,Makassar,5.0
+T292,2025-08-05,Maya Lestari,Smartphone,Xiaomi Redmi Note 12,4,850,3400,E-Wallet,Jakarta,5.0
+T293,2025-08-16,Budi Santoso,Laptop,HP Pavilion,3,600,1800,Cash,Surabaya,2.0
+T294,2025-07-22,Andi Saputra,Aksesoris,Keyboard Rexus,1,850,850,E-Wallet,Surabaya,1.0
+T295,2025-03-28,Sari Ningsih,Smartphone,iPhone 13,5,25,125,Debit,Makassar,4.0
+T296,2025-06-17,Maya Lestari,Aksesoris,Keyboard Rexus,4,300,1200,Credit,Jakarta,4.0
+T297,2025-03-02,Rudi Hartono,Laptop,HP Pavilion,2,1200,2400,Credit,Bandung,3.0
+T298,2025-02-27,Eko Prasetyo,Aksesoris,Earphone JBL,4,15,60,Debit,Medan,1.0
+T299,2025-02-28,Fajar Nugraha,Laptop,ASUS Vivobook 15,1,300,300,Cash,Medan,1.0
+T300,2025-03-15,Rudi Hartono,Aksesoris,Earphone JBL,4,75,300,Debit,Medan,4.0
+T301,2025-02-13,Budi Santoso,Laptop,Lenovo IdeaPad 3,3,1200,3600,Credit,Makassar,2.0
+T302,2025-08-03,Rudi Hartono,Smartphone,Oppo A58,1,300,300,E-Wallet,Surabaya,5.0
+T303,2025-04-04,Citra Dewi,Laptop,ASUS Vivobook 15,4,15,60,Cash,Semarang,
+T304,2025-07-28,Andi Saputra,Laptop,Lenovo IdeaPad 3,5,40,200,E-Wallet,Surabaya,4.0
+T305,2025-08-01,Andi Saputra,Smartphone,Oppo A58,3,550,1650,Debit,Makassar,1.0
+T306,2025-05-04,Sari Ningsih,Aksesoris,Charger Anker,2,25,50,Credit,Medan,2.0
+T307,2025-02-14,Lina Oktaviani,Smartphone,iPhone 13,2,230,460,E-Wallet,Makassar,4.0
+T308,2025-01-07,Citra Dewi,Aksesoris,Mouse Logitech,1,850,850,Credit,Jakarta,5.0
+T309,2025-09-05,Rudi Hartono,Smartphone,Samsung A14,3,75,225,Debit,Bandung,2.0
+T310,2025-01-30,Andi Saputra,Laptop,ASUS Vivobook 15,4,75,300,Debit,Makassar,1.0
+T311,2025-06-05,Budi Santoso,Laptop,HP Pavilion,5,230,1150,Debit,Medan,2.0
+T312,2025-01-29,Lina Oktaviani,Aksesoris,Mouse Logitech,2,1200,2400,Cash,Jakarta,5.0
+T313,2025-09-27,Lina Oktaviani,Smartphone,Xiaomi Redmi Note 12,5,550,2750,Debit,Medan,5.0
+T314,2025-05-12,Citra Dewi,Laptop,HP Pavilion,4,300,1200,E-Wallet,Surabaya,5.0
+T315,2025-04-13,Budi Santoso,Laptop,MacBook Air M2,1,230,230,Cash,Medan,3.0
+T316,2025-09-03,Eko Prasetyo,Smartphone,Xiaomi Redmi Note 12,3,15,45,Cash,Jakarta,3.0
+T317,2025-05-07,Andi Saputra,Aksesoris,Charger Anker,4,25,100,Cash,Jakarta,3.0
+T318,2025-04-08,Citra Dewi,Aksesoris,Mouse Logitech,5,300,1500,Credit,Yogyakarta,1.0
+T319,2025-01-26,Eko Prasetyo,Smartphone,Samsung A14,3,230,690,Debit,Bandung,
+T320,2025-06-30,Rina Putri,Smartphone,Oppo A58,3,25,75,Credit,Yogyakarta,3.0
+T321,2025-03-29,Rudi Hartono,Laptop,MacBook Air M2,2,600,1200,Cash,Jakarta,
+T322,2025-04-21,Eko Prasetyo,Smartphone,Xiaomi Redmi Note 12,5,15,75,E-Wallet,Makassar,4.0
+T323,2025-03-15,Sari Ningsih,Laptop,MacBook Air M2,5,300,1500,E-Wallet,Bandung,
+T324,2025-07-24,Andi Saputra,Aksesoris,Mouse Logitech,5,600,3000,Cash,Jakarta,
+T325,2025-03-25,,Smartphone,iPhone 13,5,25,125,Debit,Surabaya,5.0
+T326,2025-07-30,Eko Prasetyo,Smartphone,iPhone 13,1,850,850,Cash,Semarang,4.0
+T327,2025-06-01,Lina Oktaviani,Aksesoris,Keyboard Rexus,1,550,550,Cash,Jakarta,2.0
+T328,2025-05-24,Fajar Nugraha,Laptop,MacBook Air M2,1,300,300,Debit,Surabaya,3.0
+T329,2025-09-21,Maya Lestari,Smartphone,Oppo A58,4,300,1200,Cash,Yogyakarta,
+T330,2025-05-28,Rina Putri,Laptop,MacBook Air M2,2,850,1700,Cash,Medan,2.0
+T331,2025-04-16,Citra Dewi,Laptop,HP Pavilion,4,230,920,Debit,Bandung,4.0
+T332,2025-06-24,Andi Saputra,Aksesoris,Mouse Logitech,5,25,125,Debit,Makassar,2.0
+T333,2025-05-09,Maya Lestari,Laptop,Lenovo IdeaPad 3,3,1200,3600,Cash,Bandung,4.0
+T334,2025-09-18,Budi Santoso,Laptop,ASUS Vivobook 15,5,600,3000,E-Wallet,Yogyakarta,3.0
+T335,2025-02-19,Rina Putri,Aksesoris,Charger Anker,2,25,50,E-Wallet,Yogyakarta,3.0
+T336,2025-02-02,Eko Prasetyo,Laptop,Lenovo IdeaPad 3,2,75,150,Debit,Medan,4.0
+T337,2025-04-23,Maya Lestari,Aksesoris,Keyboard Rexus,5,40,200,Credit,Jakarta,5.0
+T338,2025-08-30,Maya Lestari,Aksesoris,Mouse Logitech,4,850,3400,Cash,Medan,1.0
+T339,2025-06-03,Rudi Hartono,Laptop,Lenovo IdeaPad 3,3,300,900,Cash,Yogyakarta,2.0
+T340,2025-01-28,,Smartphone,iPhone 13,1,40,40,Credit,Semarang,2.0
+T341,2025-05-26,Budi Santoso,Smartphone,Oppo A58,1,550,550,E-Wallet,Jakarta,4.0
+T342,2025-06-17,Budi Santoso,Aksesoris,Earphone JBL,5,25,125,Debit,Makassar,5.0
+T343,2025-04-19,,Smartphone,iPhone 13,4,1200,4800,Debit,Makassar,4.0
+T344,2025-08-07,Andi Saputra,Smartphone,Xiaomi Redmi Note 12,4,40,160,Credit,Jakarta,3.0
+T345,2025-02-01,Rina Putri,Smartphone,iPhone 13,3,300,900,Cash,Surabaya,4.0
+T346,2025-05-07,Fajar Nugraha,Laptop,MacBook Air M2,1,850,850,Debit,Bandung,2.0
+T347,2025-04-13,Eko Prasetyo,Smartphone,Xiaomi Redmi Note 12,4,850,3400,E-Wallet,Semarang,2.0
+T348,2025-07-04,Budi Santoso,Smartphone,Xiaomi Redmi Note 12,4,25,100,Debit,Makassar,
+T349,2025-02-19,Rudi Hartono,Smartphone,Xiaomi Redmi Note 12,4,15,60,E-Wallet,Yogyakarta,3.0
+T350,2025-07-01,Eko Prasetyo,Laptop,ASUS Vivobook 15,3,15,45,Cash,Bandung,4.0
+T351,2025-01-18,Rina Putri,Laptop,ASUS Vivobook 15,2,15,30,Credit,Semarang,2.0
+T352,2025-06-22,Maya Lestari,Aksesoris,Earphone JBL,4,75,300,Debit,Semarang,3.0
+T353,2025-09-17,Rina Putri,Smartphone,Oppo A58,3,600,1800,E-Wallet,Makassar,1.0
+T354,2025-02-28,Citra Dewi,Laptop,Lenovo IdeaPad 3,3,600,1800,E-Wallet,Semarang,5.0
+T355,2025-08-03,Eko Prasetyo,Aksesoris,Earphone JBL,5,15,75,Cash,Semarang,3.0
+T356,2025-09-20,Rina Putri,Laptop,MacBook Air M2,1,550,550,Credit,Jakarta,4.0
+T357,2025-05-11,Budi Santoso,Laptop,ASUS Vivobook 15,4,75,300,Credit,Semarang,4.0
+T358,2025-04-21,Maya Lestari,Laptop,HP Pavilion,2,550,1100,Debit,Bandung,
+T359,2025-01-20,Rudi Hartono,Smartphone,iPhone 13,3,300,900,Credit,Surabaya,5.0
+T360,2025-05-27,Fajar Nugraha,Aksesoris,Keyboard Rexus,5,600,3000,Cash,Jakarta,3.0
+T361,2025-08-23,Andi Saputra,Smartphone,Samsung A14,5,15,75,Debit,Medan,3.0
+T362,2025-05-11,Eko Prasetyo,Laptop,ASUS Vivobook 15,5,300,1500,E-Wallet,Medan,5.0
+T363,2025-03-18,Maya Lestari,Laptop,ASUS Vivobook 15,5,600,3000,Debit,Semarang,1.0
+T364,2025-05-19,Budi Santoso,Laptop,ASUS Vivobook 15,4,300,1200,Credit,Bandung,4.0
+T365,2025-02-04,Eko Prasetyo,Aksesoris,Keyboard Rexus,1,300,300,Credit,Yogyakarta,2.0
+T366,2025-06-09,Rina Putri,Smartphone,iPhone 13,5,600,3000,Credit,Surabaya,3.0
+T367,2025-05-03,Maya Lestari,Aksesoris,Charger Anker,1,15,15,Cash,Jakarta,3.0
+T368,2025-06-29,Sari Ningsih,Aksesoris,Earphone JBL,3,850,2550,Credit,Surabaya,1.0
+T369,2025-05-27,Fajar Nugraha,Laptop,MacBook Air M2,1,75,75,Credit,Jakarta,1.0
+T370,2025-02-24,Fajar Nugraha,Laptop,MacBook Air M2,3,850,2550,Cash,Yogyakarta,2.0
+T371,2025-09-27,Andi Saputra,Smartphone,Samsung A14,2,40,80,E-Wallet,Jakarta,2.0
+T372,2025-07-14,Andi Saputra,Smartphone,Oppo A58,3,75,225,Credit,Medan,2.0
+T373,2025-03-02,Sari Ningsih,Aksesoris,Earphone JBL,2,1200,2400,Debit,Makassar,1.0
+T374,2025-04-27,Fajar Nugraha,Laptop,HP Pavilion,2,1200,2400,Debit,Surabaya,5.0
+T375,2025-01-02,Budi Santoso,Smartphone,Oppo A58,4,300,1200,Cash,Medan,2.0
+T376,2025-02-13,Lina Oktaviani,Smartphone,Xiaomi Redmi Note 12,2,850,1700,E-Wallet,Surabaya,5.0
+T377,2025-09-22,Maya Lestari,Aksesoris,Keyboard Rexus,4,850,3400,Cash,Bandung,2.0
+T378,2025-04-10,Eko Prasetyo,Laptop,MacBook Air M2,4,15,60,Cash,Semarang,3.0
+T379,2025-02-08,Rina Putri,Laptop,MacBook Air M2,1,230,230,E-Wallet,Medan,3.0
+T380,2025-02-15,Budi Santoso,Laptop,ASUS Vivobook 15,3,550,1650,Debit,Surabaya,4.0
+T381,2025-07-21,Eko Prasetyo,Laptop,ASUS Vivobook 15,5,40,200,E-Wallet,Semarang,
+T382,2025-06-07,Budi Santoso,Aksesoris,Keyboard Rexus,2,550,1100,Cash,Bandung,1.0
+T383,2025-02-10,Citra Dewi,Smartphone,Samsung A14,5,850,4250,Debit,Surabaya,5.0
+T384,2025-03-15,,Smartphone,Xiaomi Redmi Note 12,1,300,300,E-Wallet,Bandung,5.0
+T385,2025-09-20,Sari Ningsih,Smartphone,iPhone 13,4,75,300,Credit,Jakarta,2.0
+T386,2025-08-25,Rudi Hartono,Aksesoris,Mouse Logitech,2,1200,2400,E-Wallet,Yogyakarta,5.0
+T387,2025-03-05,Rudi Hartono,Smartphone,iPhone 13,5,300,1500,Debit,Surabaya,3.0
+T388,2025-06-22,Budi Santoso,Laptop,ASUS Vivobook 15,3,600,1800,Debit,Medan,1.0
+T389,2025-05-22,Rina Putri,Smartphone,Samsung A14,3,1200,3600,Debit,Jakarta,2.0
+T390,2025-04-20,Eko Prasetyo,Smartphone,Samsung A14,1,15,15,Debit,Jakarta,3.0
+T391,2025-09-09,,Laptop,MacBook Air M2,3,550,1650,E-Wallet,Bandung,5.0
+T392,2025-07-13,Sari Ningsih,Laptop,ASUS Vivobook 15,5,40,200,E-Wallet,Yogyakarta,3.0
+T393,2025-06-13,Lina Oktaviani,Aksesoris,Charger Anker,4,600,2400,Credit,Medan,3.0
+T394,2025-07-22,Budi Santoso,Laptop,MacBook Air M2,1,300,300,Credit,Bandung,4.0
+T395,2025-01-24,Fajar Nugraha,Aksesoris,Charger Anker,4,230,920,Credit,Yogyakarta,5.0
+T396,2025-02-22,Rudi Hartono,Aksesoris,Keyboard Rexus,5,550,2750,E-Wallet,Yogyakarta,
+T397,2025-02-07,Sari Ningsih,Aksesoris,Earphone JBL,4,1200,4800,Credit,Yogyakarta,4.0
+T398,2025-09-02,Citra Dewi,Smartphone,Xiaomi Redmi Note 12,3,25,75,Cash,Bandung,
+T399,2025-09-13,Citra Dewi,Smartphone,Xiaomi Redmi Note 12,5,600,3000,Credit,Makassar,3.0
+T400,2025-08-03,,Smartphone,iPhone 13,2,850,1700,Cash,Surabaya,
+T401,2025-04-01,Citra Dewi,Smartphone,iPhone 13,4,550,2200,Cash,Yogyakarta,1.0
+T402,2025-07-07,Citra Dewi,Laptop,Lenovo IdeaPad 3,3,75,225,E-Wallet,Surabaya,1.0
+T403,2025-09-18,Budi Santoso,Aksesoris,Keyboard Rexus,3,300,900,Cash,Bandung,5.0
+T404,2025-01-29,Eko Prasetyo,Smartphone,Samsung A14,5,300,1500,Credit,Jakarta,2.0
+T405,2025-06-03,Citra Dewi,Smartphone,iPhone 13,5,40,200,Debit,Yogyakarta,5.0
+T406,2025-03-31,Fajar Nugraha,Laptop,MacBook Air M2,1,550,550,E-Wallet,Medan,1.0
+T407,2025-07-25,Budi Santoso,Aksesoris,Mouse Logitech,1,75,75,Cash,Yogyakarta,2.0
+T408,2025-04-09,Maya Lestari,Laptop,ASUS Vivobook 15,4,300,1200,Credit,Surabaya,5.0
+T409,2025-04-30,Rudi Hartono,Smartphone,Oppo A58,3,25,75,Credit,Bandung,4.0
+T410,2025-02-07,Sari Ningsih,Smartphone,Samsung A14,2,300,600,E-Wallet,Semarang,2.0
+T411,2025-08-10,Rudi Hartono,Laptop,ASUS Vivobook 15,3,850,2550,Credit,Semarang,5.0
+T412,2025-05-12,Rina Putri,Aksesoris,Charger Anker,1,75,75,Cash,Makassar,2.0
+T413,2025-04-27,Eko Prasetyo,Smartphone,Samsung A14,2,300,600,Cash,Bandung,
+T414,2025-06-16,Lina Oktaviani,Laptop,ASUS Vivobook 15,1,550,550,Credit,Medan,
+T415,2025-06-22,Eko Prasetyo,Laptop,HP Pavilion,1,25,25,Cash,Bandung,4.0
+T416,2025-05-31,Rina Putri,Aksesoris,Mouse Logitech,4,300,1200,Debit,Medan,5.0
+T417,2025-04-06,Maya Lestari,Laptop,Lenovo IdeaPad 3,4,25,100,E-Wallet,Semarang,1.0
+T418,2025-01-15,Eko Prasetyo,Smartphone,Oppo A58,1,300,300,E-Wallet,Semarang,3.0
+T419,2025-05-19,Eko Prasetyo,Laptop,HP Pavilion,5,1200,6000,Credit,Semarang,3.0
+T420,2025-09-24,Maya Lestari,Aksesoris,Mouse Logitech,4,550,2200,Credit,Medan,2.0
+T421,2025-06-18,Citra Dewi,Smartphone,Samsung A14,3,25,75,E-Wallet,Jakarta,1.0
+T422,2025-07-07,Fajar Nugraha,Laptop,MacBook Air M2,5,25,125,Cash,Makassar,5.0
+T423,2025-02-08,Andi Saputra,Aksesoris,Keyboard Rexus,4,40,160,Debit,Makassar,2.0
+T424,2025-06-14,Andi Saputra,Smartphone,Samsung A14,5,550,2750,Credit,Makassar,4.0
+T425,2025-08-13,Budi Santoso,Smartphone,Xiaomi Redmi Note 12,4,75,300,Credit,Yogyakarta,1.0
+T426,2025-01-16,Rina Putri,Smartphone,Samsung A14,1,15,15,Credit,Surabaya,
+T427,2025-02-04,Rudi Hartono,Laptop,ASUS Vivobook 15,3,40,120,Credit,Bandung,1.0
+T428,2025-10-01,,Aksesoris,Mouse Logitech,1,600,600,Debit,Medan,2.0
+T429,2025-09-05,Maya Lestari,Smartphone,Xiaomi Redmi Note 12,4,600,2400,E-Wallet,Surabaya,
+T430,2025-09-02,Sari Ningsih,Laptop,MacBook Air M2,3,600,1800,Cash,Semarang,
+T431,2025-01-19,Fajar Nugraha,Aksesoris,Mouse Logitech,1,600,600,Cash,Yogyakarta,3.0
+T432,2025-03-06,Sari Ningsih,Smartphone,Xiaomi Redmi Note 12,2,40,80,E-Wallet,Semarang,1.0
+T433,2025-06-01,Fajar Nugraha,Aksesoris,Earphone JBL,1,15,15,Cash,Surabaya,1.0
+T434,2025-05-25,Citra Dewi,Laptop,HP Pavilion,2,230,460,Credit,Surabaya,4.0
+T435,2025-01-09,,Laptop,MacBook Air M2,5,25,125,Debit,Makassar,2.0
+T436,2025-02-01,Maya Lestari,Laptop,HP Pavilion,4,550,2200,E-Wallet,Bandung,5.0
+T437,2025-07-30,Sari Ningsih,Laptop,ASUS Vivobook 15,5,230,1150,Cash,Makassar,3.0
+T438,2025-08-16,Lina Oktaviani,Aksesoris,Charger Anker,1,25,25,Debit,Jakarta,5.0
+T439,2025-04-11,Sari Ningsih,Smartphone,iPhone 13,2,850,1700,Debit,Bandung,1.0
+T440,2025-03-11,Sari Ningsih,Aksesoris,Earphone JBL,1,25,25,Cash,Semarang,2.0
+T441,2025-04-13,Andi Saputra,Laptop,HP Pavilion,3,850,2550,Cash,Makassar,4.0
+T442,2025-03-12,Eko Prasetyo,Laptop,Lenovo IdeaPad 3,3,25,75,Credit,Makassar,5.0
+T443,2025-02-05,Fajar Nugraha,Aksesoris,Earphone JBL,4,40,160,E-Wallet,Semarang,5.0
+T444,2025-05-16,Budi Santoso,Laptop,Lenovo IdeaPad 3,1,25,25,Debit,Yogyakarta,2.0
+T445,2025-09-28,Eko Prasetyo,Laptop,HP Pavilion,3,40,120,Cash,Medan,
+T446,2025-07-11,Rudi Hartono,Aksesoris,Keyboard Rexus,3,25,75,Credit,Medan,3.0
+T447,2025-01-09,Lina Oktaviani,Aksesoris,Mouse Logitech,5,230,1150,Credit,Bandung,5.0
+T448,2025-04-08,Rina Putri,Smartphone,Xiaomi Redmi Note 12,5,230,1150,Cash,Surabaya,2.0
+T449,2025-05-23,Rina Putri,Laptop,Lenovo IdeaPad 3,1,600,600,Debit,Surabaya,3.0
+T450,2025-07-02,Rudi Hartono,Laptop,HP Pavilion,4,230,920,Debit,Yogyakarta,1.0
+T451,2025-03-09,Rudi Hartono,Smartphone,Oppo A58,1,600,600,Credit,Surabaya,5.0
+T452,2025-03-24,Rina Putri,Laptop,MacBook Air M2,4,600,2400,Cash,Bandung,5.0
+T453,2025-02-02,Sari Ningsih,Smartphone,iPhone 13,4,15,60,Cash,Yogyakarta,4.0
+T454,2025-05-03,Sari Ningsih,Laptop,ASUS Vivobook 15,2,850,1700,E-Wallet,Medan,3.0
+T455,2025-09-20,Rina Putri,Laptop,Lenovo IdeaPad 3,2,850,1700,Cash,Semarang,4.0
+T456,2025-08-13,Andi Saputra,Smartphone,iPhone 13,4,300,1200,Cash,Surabaya,2.0
+T457,2025-03-31,Sari Ningsih,Laptop,ASUS Vivobook 15,2,230,460,Cash,Jakarta,2.0
+T458,2025-08-26,Andi Saputra,Aksesoris,Mouse Logitech,1,15,15,Cash,Bandung,4.0
+T459,2025-01-09,Budi Santoso,Laptop,HP Pavilion,3,15,45,Credit,Bandung,3.0
+T460,2025-01-31,Eko Prasetyo,Laptop,Lenovo IdeaPad 3,2,230,460,Debit,Bandung,
+T461,2025-03-22,Fajar Nugraha,Aksesoris,Mouse Logitech,5,15,75,E-Wallet,Surabaya,3.0
+T462,2025-06-29,Maya Lestari,Smartphone,Oppo A58,4,550,2200,Credit,Medan,1.0
+T463,2025-07-07,Fajar Nugraha,Aksesoris,Earphone JBL,5,230,1150,E-Wallet,Jakarta,4.0
+T464,2025-07-01,Rina Putri,Laptop,HP Pavilion,5,40,200,E-Wallet,Yogyakarta,4.0
+T465,2025-06-08,Maya Lestari,Smartphone,Samsung A14,5,550,2750,Cash,Bandung,5.0
+T466,2025-03-29,Fajar Nugraha,Smartphone,Samsung A14,3,230,690,Cash,Medan,1.0
+T467,2025-02-03,Fajar Nugraha,Aksesoris,Keyboard Rexus,4,230,920,Debit,Bandung,
+T468,2025-04-30,Eko Prasetyo,Laptop,ASUS Vivobook 15,4,15,60,Cash,Bandung,
+T469,2025-07-26,Budi Santoso,Smartphone,Xiaomi Redmi Note 12,2,300,600,E-Wallet,Semarang,4.0
+T470,2025-09-25,Eko Prasetyo,Aksesoris,Mouse Logitech,1,1200,1200,Debit,Bandung,2.0
+T471,2025-08-09,Budi Santoso,Laptop,Lenovo IdeaPad 3,4,600,2400,Cash,Medan,
+T472,2025-08-14,Eko Prasetyo,Smartphone,Oppo A58,2,850,1700,E-Wallet,Bandung,2.0
+T473,2025-09-06,Sari Ningsih,Smartphone,Xiaomi Redmi Note 12,2,230,460,Cash,Bandung,3.0
+T474,2025-09-18,Eko Prasetyo,Aksesoris,Keyboard Rexus,1,75,75,Cash,Bandung,5.0
+T475,2025-06-29,Budi Santoso,Smartphone,Samsung A14,3,1200,3600,E-Wallet,Semarang,3.0
+T476,2025-08-08,Lina Oktaviani,Laptop,ASUS Vivobook 15,2,600,1200,Cash,Jakarta,
+T477,2025-04-25,Citra Dewi,Smartphone,Xiaomi Redmi Note 12,5,40,200,E-Wallet,Surabaya,4.0
+T478,2025-06-16,Maya Lestari,Aksesoris,Earphone JBL,4,230,920,Debit,Jakarta,1.0
+T479,2025-01-05,Maya Lestari,Laptop,Lenovo IdeaPad 3,4,300,1200,Cash,Makassar,4.0
+T480,2025-05-09,Citra Dewi,Aksesoris,Earphone JBL,4,15,60,E-Wallet,Yogyakarta,1.0
+T481,2025-04-03,Maya Lestari,Laptop,MacBook Air M2,4,1200,4800,Debit,Semarang,2.0
+T482,2025-04-17,Rina Putri,Laptop,Lenovo IdeaPad 3,5,40,200,E-Wallet,Makassar,5.0
+T483,2025-06-16,Lina Oktaviani,Aksesoris,Earphone JBL,2,40,80,Credit,Jakarta,5.0
+T484,2025-06-20,Rina Putri,Smartphone,Xiaomi Redmi Note 12,5,850,4250,Cash,Medan,
+T485,2025-09-08,Andi Saputra,Laptop,Lenovo IdeaPad 3,4,850,3400,E-Wallet,Bandung,3.0
+T486,2025-05-17,,Laptop,ASUS Vivobook 15,5,230,1150,E-Wallet,Semarang,2.0
+T487,2025-09-23,Rina Putri,Smartphone,Samsung A14,2,75,150,Credit,Surabaya,3.0
+T488,2025-08-18,Andi Saputra,Laptop,HP Pavilion,2,850,1700,Credit,Bandung,4.0
+T489,2025-09-21,Fajar Nugraha,Smartphone,Xiaomi Redmi Note 12,4,550,2200,Credit,Surabaya,1.0
+T490,2025-07-02,Rina Putri,Aksesoris,Charger Anker,1,850,850,Cash,Jakarta,4.0
+T491,2025-05-28,Rina Putri,Smartphone,iPhone 13,4,300,1200,Cash,Yogyakarta,
+T492,2025-05-05,Rudi Hartono,Aksesoris,Charger Anker,5,850,4250,Cash,Medan,5.0
+T493,2025-04-02,Lina Oktaviani,Laptop,Lenovo IdeaPad 3,5,230,1150,Credit,Makassar,4.0
+T494,2025-05-08,Fajar Nugraha,Smartphone,iPhone 13,4,15,60,Cash,Bandung,4.0
+T495,2025-09-09,Citra Dewi,Aksesoris,Mouse Logitech,2,550,1100,Credit,Jakarta,
+T496,2025-09-22,Andi Saputra,Aksesoris,Earphone JBL,5,230,1150,Debit,Surabaya,4.0
+T497,2025-09-25,Eko Prasetyo,Smartphone,Xiaomi Redmi Note 12,2,300,600,Debit,Surabaya,3.0
+T498,2025-06-14,Lina Oktaviani,Laptop,MacBook Air M2,3,550,1650,E-Wallet,Bandung,4.0
+T499,2025-07-19,Maya Lestari,Aksesoris,Charger Anker,2,25,50,E-Wallet,Surabaya,1.0
+T500,2025-04-01,Andi Saputra,Laptop,MacBook Air M2,4,600,2400,E-Wallet,Yogyakarta,2.0
+T305,2025-08-01,Andi Saputra,Smartphone,Oppo A58,3,550,1650,Debit,Makassar,1.0
+T341,2025-05-26,Budi Santoso,Smartphone,Oppo A58,1,550,550,E-Wallet,Jakarta,4.0
+T048,2025-05-31,Rina Putri,Aksesoris,Charger Anker,5,230,1150,Cash,Yogyakarta,1.0
+T068,2025-08-06,Maya Lestari,Laptop,HP Pavilion,2,550,1100,E-Wallet,Makassar,3.0
+T480,2025-05-09,Citra Dewi,Aksesoris,Earphone JBL,4,15,60,E-Wallet,Yogyakarta,1.0
+T486,2025-05-17,,Laptop,ASUS Vivobook 15,5,230,1150,E-Wallet,Semarang,2.0
+T311,2025-06-05,Budi Santoso,Laptop,HP Pavilion,5,230,1150,Debit,Medan,2.0
+T032,2025-10-01,Maya Lestari,Smartphone,iPhone 13,5,1200,6000,E-Wallet,Surabaya,4.0
+T250,2025-06-15,Rina Putri,Aksesoris,Earphone JBL,4,550,2200,Credit,Semarang,2.0
+T091,2025-01-10,Citra Dewi,Laptop,ASUS Vivobook 15,2,600,1200,Credit,Semarang,2.0
