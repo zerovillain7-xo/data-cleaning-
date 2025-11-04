@@ -1,18 +1,18 @@
-# 🧹 Data Cleaning Project with Pandas
+#  Data Cleaning Project with Pandas
 
 Proyek ini dibuat untuk membersihkan dan memproses data mentah menggunakan **Python (Pandas)**.  
 Tujuannya adalah menyiapkan dataset yang siap digunakan untuk analisis lebih lanjut seperti visualisasi, machine learning, atau business insight.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Nama file:** `data_raw.csv`  
 - **Sumber:** (isi sumber datanya, misalnya: Kaggle / internal / dummy data)
 - **Jumlah data:** (misal: 500 baris, 10 kolom)
 
 ---
 
-## 🧠 Tujuan Cleaning
+## Tujuan Cleaning
 Beberapa tahap utama yang dilakukan dalam proses data cleaning ini:
 1. Menghapus **missing values (NaN)**  
 2. Mengatasi **duplikasi data**
@@ -23,15 +23,15 @@ Beberapa tahap utama yang dilakukan dalam proses data cleaning ini:
 
 ---
 
-## ⚙️ Tools yang Digunakan
-- 🐍 Python 3.x  
-- 🧾 Pandas  
-- 📉 NumPy  
-- 📊 Matplotlib (opsional untuk eksplorasi data)
+## Tools yang Digunakan
+- Python 3.x  
+- Pandas  
+- NumPy  
+- Matplotlib (opsional untuk eksplorasi data)
 
 ---
 
-## 💻 Langkah-Langkah Cleaning (Contoh)
+## Langkah-Langkah Cleaning (Contoh)
 ```python
 import pandas as pd
 import numpy as np
